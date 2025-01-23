@@ -1,0 +1,13 @@
+name = "Chisel Reborn"
+filename = "chisel-fabric-1.8.3+mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/jdydiqQo/chisel-fabric-1.8.3%2Bmc1.21.4.jar"
+hash-format = "sha1"
+hash = "c418e914aca753cf147b4ebe921aa6e6a498c24a"
+
+[update]
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "jdydiqQo"

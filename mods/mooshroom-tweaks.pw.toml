@@ -1,0 +1,13 @@
+name = "Mooshroom Tweaks"
+filename = "mooshroomtweaks-1.21.4-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/B10lMHiA/versions/NRUe0tNS/mooshroomtweaks-1.21.4-3.5.jar"
+hash-format = "sha1"
+hash = "a33ce210e4ce83248c1ddbd0cc33acf10915c050"
+
+[update]
+[update.modrinth]
+mod-id = "B10lMHiA"
+version = "NRUe0tNS"
