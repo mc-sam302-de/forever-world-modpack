@@ -1,0 +1,13 @@
+name = "Forever World Modpack"
+author = "Sam302rk"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f6f5a2a0816f6f78ff28451c1e4d481c0e947e820b1acda2a38d856e6e2ec45c"
+
+[versions]
+minecraft = "1.21.4"
+quilt = "0.28.0-beta.6"
