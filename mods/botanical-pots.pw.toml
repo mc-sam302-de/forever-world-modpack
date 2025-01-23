@@ -1,13 +1,13 @@
 name = "Botanical Pots"
-filename = "botanical-pots-1.6+1.21.3.jar"
+filename = "botanical-pots-1.6+1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/CIBZjcRo/versions/GIwcUBZi/botanical-pots-1.6%2B1.21.3.jar"
+url = "https://cdn.modrinth.com/data/CIBZjcRo/versions/VivEuDa6/botanical-pots-1.6%2B1.21.1.jar"
 hash-format = "sha1"
-hash = "ceb586f94a8e37766f5e35f169aa3af5886ee756"
+hash = "015375dc26934735e5bb91c7522c3c03a98838c0"
 
 [update]
 [update.modrinth]
 mod-id = "CIBZjcRo"
-version = "GIwcUBZi"
+version = "VivEuDa6"

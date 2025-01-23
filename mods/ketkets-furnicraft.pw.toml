@@ -1,13 +1,13 @@
 name = "FurniCraft"
-filename = "ketkets-furnicraft-4.9.jar"
+filename = "ketkets-furnicraft-4.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7OgRKPcG/versions/iJB6J97Y/ketkets-furnicraft-4.9.jar"
+url = "https://cdn.modrinth.com/data/7OgRKPcG/versions/nqkLY3mr/ketkets-furnicraft-4.4.jar"
 hash-format = "sha1"
-hash = "4eaf3becd5d3099a2041740669d782c3de0b5460"
+hash = "7f148fd613a928e0a1562d8f8824667c28cb1b79"
 
 [update]
 [update.modrinth]
 mod-id = "7OgRKPcG"
-version = "iJB6J97Y"
+version = "nqkLY3mr"
