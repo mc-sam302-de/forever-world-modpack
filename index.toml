@@ -61,16 +61,6 @@ hash = "66b27fa4b5af9a926ddfdbaa91b2599640f7ba6b7b7237cae3a9bb6ceb4c2e91"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric.pw.toml"
-hash = "21da22765bdcc9f9cd205fe082336e7ca8af3a9668ce857617ed7e3e8aefe2a2"
-metafile = true
-
-[[files]]
-file = "mods/createaddition.pw.toml"
-hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
-metafile = true
-
-[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "18e93ad34407c583d17401200a1bfae2f22f8af723683469d365affd406fc69d"
 metafile = true
@@ -98,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "b24e8c8a05c1fb22a1a40cb6c6b059b753851f5e829dbf970c372c55c0ec1d0c"
-metafile = true
-
-[[files]]
-file = "mods/estrogen.pw.toml"
-hash = "a34def475bc422bc064b206042e76da49140abab3afb76c083fc1845f6bfdfd7"
 metafile = true
 
 [[files]]
@@ -143,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "3e1a7b21158a3aa7e5628e7422236da9a0ec28df2860684913ad0ec63f0f036b"
-metafile = true
-
-[[files]]
-file = "mods/lets-do-herbalbrews.pw.toml"
-hash = "ac0efc67c89b5b29af5b77f6786fc58371b678ef50eeb837d2711cec7bc77db3"
 metafile = true
 
 [[files]]
@@ -236,11 +216,6 @@ hash = "2e79e4841ff44bc6ab4ef4fa32c1206b27164478daea4e1d6ffc9bb80f4eb266"
 metafile = true
 
 [[files]]
-file = "mods/spelunkery.pw.toml"
-hash = "a890d3c0decda7e5dfd39187307418c4e192b8d0831289510d89c1fa64872bcc"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "c5794d00e2b0cd0952f313684c71e65e0aa5513ac1368a847c2f0b3ae072ca88"
 metafile = true
@@ -263,11 +238,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
-metafile = true
-
-[[files]]
-file = "mods/variant-beehives.pw.toml"
-hash = "14e95bc679926b7eb48a141baa99028054391d50fc495f9d3f566e5d30d02ff6"
 metafile = true
 
 [[files]]
