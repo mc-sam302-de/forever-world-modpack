@@ -191,16 +191,6 @@ hash = "bb544f8bebdf2ad9ee4f799f2a59c90cd07219578a47499ee60c02752d70cfcf"
 metafile = true
 
 [[files]]
-file = "mods/veinminer-enchantment.pw.toml"
-hash = "4ff6b6f173b37e5404b024eac48050f2ffb9014281a9d349b622672c615144e3"
-metafile = true
-
-[[files]]
-file = "mods/veinminer.pw.toml"
-hash = "b9073761a2053b3e373fff13d5c48258fea6b1edb9cee00d00c96ad9fe4d3f20"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1c72365bd70cd790cd3b96232b5fb79a9b1c3ae85b1d861a0574e3d79be12200"
 metafile = true
