@@ -1,0 +1,13 @@
+name = "Default HD 128x"
+filename = "Default HD 128x Demo 1.7.7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orfTV6nk/versions/nL7q56ha/Default%20HD%20128x%20Demo%201.7.7.zip"
+hash-format = "sha1"
+hash = "c4690dd1ecec263a76a4de69c45e20888fc4685e"
+
+[update]
+[update.modrinth]
+mod-id = "orfTV6nk"
+version = "nL7q56ha"
